@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1,
+    "title": "Virualization",
+    "description": "Allows one computer to operate under two operating systems."
+  },
+  {
+    "id": 2,
+    "title": "JavaScript",
+    "description":
+      "JavaScript has many online resources use to educate individuals how to code."
+  },
+  {
+    "id":3,
+    "title": "Github",
+    "description":
+      "Allows users to create projects to be accessed to the public."
+  },
+  {
+    "id": 4,
+    "title": "Apps",
+    "description":
+      "Are useful tools used by many to keep track of various activities to be completed throughout the year."
+  }
+]
